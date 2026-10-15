@@ -1,0 +1,2 @@
+# Large videos remain hosted on Tencent COS and are loaded by absolute URL.
+assets/projects/*.mp4
